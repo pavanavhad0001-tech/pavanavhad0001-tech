@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Pavan Vilasrao Avhad 👋
 
-<!--
-**pavanavhad0001-tech/pavanavhad0001-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Second-Year Computer Science Engineering Student
 
-Here are some ideas to get you started:
+I'm a student who enjoys learning how technology works and building practical projects along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm focusing on:
+- Learning programming and problem-solving.
+- Strengthening my Data Structures and Computer Science fundamentals.
+- Exploring Python and automation.
+- Building projects to apply what I learn.
+
+### 🛠️ Technologies I'm Exploring
+- C
+- Python
+- Data Structures
+- Git & GitHub
+- n8n and workflow automation
+
+### 🚀 Projects
+- **StudyVault** – A platform idea for organizing and sharing study materials.
+- **Mistake Notebook** – A learning project to track mistakes and improve study practice.
+
+### 🎯 My Goal
+To become a better developer through consistent learning, experimentation, and building real-world projects.
+
+---
+
+*Learning every day. Building step by step.*
