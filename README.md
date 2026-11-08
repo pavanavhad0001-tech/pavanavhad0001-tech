@@ -54,3 +54,28 @@ A learning project focused on tracking mistakes, revising questions, and improvi
 ---
 
 ⭐ *Learning every day, building step by step, and growing through experience.*
+---
+
+## 🚀 My Projects
+
+### 📚 StudyVault
+A study-material sharing platform built to help students access notes, important topics, and previous-year questions.
+
+- Learning about full-stack web development.
+- Exploring database management and cloud storage.
+- Currently improving the platform.
+
+🔗 [Visit StudyVault](https://studyyvault.vercel.app)
+
+### 🤖 Mistake Notebook
+A personal study assistant designed to help students track mistakes and improve their learning.
+
+- Working with Python and automation concepts.
+- Exploring n8n, Telegram Bot API, and Google Sheets.
+- Building an automated mistake-tracking workflow.
+
+**Status:** Currently under development.
+
+---
+
+*I am continuously learning, building projects, and improving my technical skills.*
